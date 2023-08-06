@@ -1,5 +1,3 @@
-<img width="1470" alt="login2" src="https://github.com/Shubham0523/React-Weather-App-with-CRUD-Functionality-and-Routing/assets/95907789/0543c3c4-2917-4c86-9dab-34afc1d6980e">
-<img width="1470" alt="login1" src="https://github.com/Shubham0523/React-Weather-App-with-CRUD-Functionality-and-Routing/assets/95907789/b636aa73-c08b-4228-b25e-e9842001b4f5">
 # React Weather App with CRUD Functionality and Routing
 
 This is a React application that combines a weather app with CRUD (Create, Read, Update, Delete) functionality, allowing users to check the weather for a specific city and manage a list of data entries. The application also utilizes routing to navigate between different pages.
