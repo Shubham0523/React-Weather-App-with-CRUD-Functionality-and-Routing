@@ -1,70 +1,87 @@
-# Getting Started with Create React App
+<img width="1470" alt="login2" src="https://github.com/Shubham0523/React-Weather-App-with-CRUD-Functionality-and-Routing/assets/95907789/0543c3c4-2917-4c86-9dab-34afc1d6980e">
+<img width="1470" alt="login1" src="https://github.com/Shubham0523/React-Weather-App-with-CRUD-Functionality-and-Routing/assets/95907789/b636aa73-c08b-4228-b25e-e9842001b4f5">
+# React Weather App with CRUD Functionality and Routing
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a React application that combines a weather app with CRUD (Create, Read, Update, Delete) functionality, allowing users to check the weather for a specific city and manage a list of data entries. The application also utilizes routing to navigate between different pages.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- Weather App: Check the weather for a city using the OpenWeatherMap API.
+- CRUD Functionality: Add, edit, and delete data entries with first names and last names.
+- Welcome Page: A personalized welcome page after logging in.
+- Routing: Navigate seamlessly between different sections of the application.
 
-### `npm start`
+## Table of Contents
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- [Getting Started](#getting-started)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Getting Started
 
-### `npm test`
+To get started with this project, follow these steps:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Prerequisites
 
-### `npm run build`
+- Node.js and npm (Node Package Manager) must be installed on your machine.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Installation
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Clone this repository to your local machine:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+   ```bash
+   git clone https://github.com/your-username/react-weather-crud-app.git
+   ```
 
-### `npm run eject`
+2. Navigate to the project directory:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+   ```bash
+   cd react-weather-crud-app
+   ```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+3. Install the dependencies:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+   ```bash
+   npm install
+   ```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Usage
 
-## Learn More
+1. Start the development server:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+   ```bash
+   npm start
+   ```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+2. Open your web browser and go to `http://localhost:3000` to access the application.
 
-### Code Splitting
+3. Use the navigation menu to explore the Weather App, CRUD functionality, and other features, all seamlessly enabled by routing.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Technologies Used
 
-### Analyzing the Bundle Size
+- React: Front-end JavaScript library for building user interfaces.
+- React Router: Library for adding routing functionality to the application.
+- Axios: Promise-based HTTP client for making API requests.
+- OpenWeatherMap API: Used to fetch weather data for the Weather App.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Contributing
 
-### Making a Progressive Web App
+Contributions are welcome! If you find any issues or would like to enhance the project, feel free to create a pull request.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## License
 
-### Advanced Configuration
+This project is licensed under the [MIT License](LICENSE).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
+<img width="1470" alt="HomePage" src="https://github.com/Shubham0523/React-Weather-App-with-CRUD-Functionality-and-Routing/assets/95907789/6ea43f5e-780e-4166-988e-85feca8f1c21">
 
-### Deployment
+<img width="1470" alt="crud1" src="https://github.com/Shubham0523/React-Weather-App-with-CRUD-Functionality-and-Routing/assets/95907789/b110807b-7d7f-4346-8951-78d4451d716c">
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+<img width="1470" alt="crud2" src="https://github.com/Shubham0523/React-Weather-App-with-CRUD-Functionality-and-Routing/assets/95907789/c50775b1-1725-4e73-89da-c51b3c896982">
 
-### `npm run build` fails to minify
+<img width="1470" alt="login1" src="https://github.com/Shubham0523/React-Weather-App-with-CRUD-Functionality-and-Routing/assets/95907789/ae0b8a23-d58e-44d7-a923-6f300a377c02">
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img width="1470" alt="login2" src="https://github.com/Shubham0523/React-Weather-App-with-CRUD-Functionality-and-Routing/assets/95907789/a9017c11-15d6-4dc4-9720-05c8c87e9848">
